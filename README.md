@@ -43,3 +43,16 @@ https://unicode.org/emoji/charts/full-emoji-list.html
   <img src="MarkDownPic/emoji_4.png" alt="emoji_4" style="zoom:50%;" />
 
 - 在输入框输入表情，进行测试。
+
+
+
+## 主要事项
+
+- 生成的图集Texture Type改成Defaut，Alpha Is Transparency勾选，Generate Mip Maps不勾选，如果图集大于2048，记得将Max Szie改成对应的尺寸。
+
+  <img src="MarkDownPic/emoji_5.png" alt="emoji_5" style="zoom:50%;" />
+
+- TextureMeshPro的版本要用2.1.0
+  - "com.unity.textmeshpro": "2.1.0",
+- 插件版本要用1.0.8
+  - "com.kyub.emojisearch": "https://gitlab-ci-token:zF563oCqvXdJmiDuMShq@gitlab.com/KyubInteractive/kyublibs.git#com.kyub.emojisearch-1.0.8",
