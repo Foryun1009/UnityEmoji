@@ -46,7 +46,7 @@ https://unicode.org/emoji/charts/full-emoji-list.html
 
 
 
-## 主要事项
+## 注意事项
 
 - 生成的图集Texture Type改成Defaut，Alpha Is Transparency勾选，Generate Mip Maps不勾选，如果图集大于2048，记得将Max Szie改成对应的尺寸。
 
