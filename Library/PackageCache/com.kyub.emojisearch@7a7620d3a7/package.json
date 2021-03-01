@@ -1,0 +1,22 @@
+{
+  "name": "com.kyub.emojisearch",
+  "version": "1.0.8",
+  "displayName": "Kyub EmojiSearch API",
+  "description": "TMP Emoji Char Sequence Parser",
+  "unity": "2018.1",
+	"dependencies": {
+			"com.unity.textmeshpro": "1.3.0" 
+	},
+  "keywords": [
+    "TMPro",
+		"Emoji",
+		"Char Sequence"
+  ],
+  "author": {
+    "name": "Kyub Interactive",
+    "email": "raf.csoares@kyubinteractive.com",
+    "url": "https://www.kyubinteractive.com"
+  },
+  "hideInEditor": false,
+  "type": "library"
+}

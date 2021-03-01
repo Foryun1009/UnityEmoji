@@ -1,0 +1,66 @@
+{
+    "name": "Kyub.EmojiSearch",
+    "references": [
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "1.3.0",
+            "define": "TMP_1_3_0_OR_NEWER"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "1.4.0",
+            "define": "TMP_1_4_0_OR_NEWER"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.0.0",
+            "define": "TMP_2_0_0_OR_NEWER"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.0.1",
+            "define": "TMP_2_0_1_OR_NEWER"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.1.0-preview.1",
+            "define": "TMP_2_1_0_PREVIEW_1_OR_NEWER"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.1.0-preview.2",
+            "define": "TMP_2_1_0_PREVIEW_2_OR_NEWER"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.1.0-preview.3",
+            "define": "TMP_2_1_0_PREVIEW_3_OR_NEWER"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.1.0-preview.8",
+            "define": "TMP_2_1_0_PREVIEW_8_OR_NEWER"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.1.0-preview.10",
+            "define": "TMP_2_1_0_PREVIEW_10_OR_NEWER"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.1.0",
+            "define": "TMP_2_1_0_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}
